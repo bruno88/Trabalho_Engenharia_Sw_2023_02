@@ -4,3 +4,28 @@
     width: 940px;
     justify-content: center;
 }
+        /* Estilizando o título */
+        h1 {
+            font-size: 28px;
+            color: #333;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* Estilizando os parágrafos */
+        .escrita p {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+
+
+        /* Estilizando o contêiner */
+        .escrita {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f7f7f7;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
