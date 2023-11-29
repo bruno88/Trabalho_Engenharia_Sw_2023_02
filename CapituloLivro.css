@@ -1,0 +1,6 @@
+.section_pc{
+    display: flex;
+    flex-direction: column;
+    width: 940px;
+    justify-content: center;
+}
