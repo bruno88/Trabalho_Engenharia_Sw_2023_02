@@ -1,3 +1,4 @@
+.section_pc{
 @import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&display=swap');
 
 body{
@@ -12,6 +13,7 @@ body{
 }
 
 /* Estilizando o título */
+>>>>>>> feature/futuro_RA
 h1 {
     font-size: 28px;
     color: #333;
@@ -19,13 +21,16 @@ h1 {
     margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
 h2{
     font-size: 22px;
     text-align: center;
     color: #333;
 }
 
+=======
 /* Estilizando os parágrafos */
+>>>>>>> feature/futuro_RA
 .escrita p {
     font-size: 16px;
     line-height: 1.5;
@@ -34,6 +39,7 @@ h2{
 
 
 /* Estilizando o contêiner */
+>>>>>>> feature/futuro_RA
 .escrita {
     width: 80%;
     margin: 0 auto;
